@@ -1,0 +1,20 @@
+18-Oct-2022 15:13:50 Start of calculation the curve OFDM_AWGN_NoLDPC_16QAM_MMSE_FreqRespAtt0 (13 of 15).
+18-Oct-2022 15:13:50   Start of the main calculations.
+18-Oct-2022 15:13:56     h2 =  3.00 dB; h2Step =  0.20 dB; BER = 0.14730891 =     603613/   4097600; FER =     100/    100 Completed
+18-Oct-2022 15:14:00     h2 =  3.20 dB; h2Step =  0.20 dB; BER = 0.14241288 =     583551/   4097600; FER =     100/    100 Completed
+18-Oct-2022 15:14:04     h2 =  3.60 dB; h2Step =  0.40 dB; BER = 0.13285826 =     544400/   4097600; FER =     100/    100 Completed
+18-Oct-2022 15:14:08     h2 =  4.40 dB; h2Step =  0.80 dB; BER = 0.11424151 =     468116/   4097600; FER =     100/    100 Completed
+18-Oct-2022 15:14:13     h2 =  6.00 dB; h2Step =  1.60 dB; BER = 0.07963247 =     326302/   4097600; FER =     100/    100 Completed
+18-Oct-2022 15:14:17     h2 =  7.60 dB; h2Step =  1.60 dB; BER = 0.04988335 =     204402/   4097600; FER =     100/    100 Completed
+18-Oct-2022 15:14:21     h2 =  9.20 dB; h2Step =  1.60 dB; BER = 0.02698580 =     110577/   4097600; FER =     100/    100 Completed
+18-Oct-2022 15:14:25     h2 = 10.80 dB; h2Step =  1.60 dB; BER = 0.01184059 =      48518/   4097600; FER =     100/    100 Completed
+18-Oct-2022 15:14:29     h2 = 12.40 dB; h2Step =  1.60 dB; BER = 0.00402357 =      16487/   4097600; FER =     100/    100 Completed
+18-Oct-2022 15:14:34     h2 = 14.00 dB; h2Step =  1.60 dB; BER = 0.00094055 =       3854/   4097600; FER =     100/    100 Completed
+18-Oct-2022 15:14:38     h2 = 15.60 dB; h2Step =  1.60 dB; BER = 0.00012666 =        519/   4097600; FER =     100/    100 Completed
+18-Oct-2022 15:14:54     h2 = 16.40 dB; h2Step =  0.80 dB; BER = 0.00003435 =        563/  16390400; FER =     295/    400 Completed
+18-Oct-2022 15:14:54   The main calculations are completed.
+18-Oct-2022 15:14:54   Start of the additional calculations [14.80].
+18-Oct-2022 15:14:59     h2 = 14.80 dB; h2Step =   NaN dB; BER = 0.00036924 =       1513/   4097600; FER =     100/    100 Completed
+18-Oct-2022 15:14:59   The additional calculations are completed.
+18-Oct-2022 15:14:59 Calculations are completed.
+

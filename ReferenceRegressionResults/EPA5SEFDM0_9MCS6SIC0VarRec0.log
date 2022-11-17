@@ -1,0 +1,14 @@
+27-Aug-2022 16:00:58 Start of calculation the curve EPA5SEFDM0_9MCS6SIC0VarRec0 (277 of 648).
+27-Aug-2022 16:00:58   Start of the main calculations.
+27-Aug-2022 16:01:17     h2 =  0.20 dB; h2Step =  0.20 dB; BER = 0.21663317 =     599294/   2766400; FER =     188/    200 Completed
+27-Aug-2022 16:01:34     h2 =  0.40 dB; h2Step =  0.20 dB; BER = 0.20917257 =     578655/   2766400; FER =     186/    200 Completed
+27-Aug-2022 16:01:51     h2 =  0.80 dB; h2Step =  0.40 dB; BER = 0.19286473 =     533541/   2766400; FER =     184/    200 Completed
+27-Aug-2022 16:02:09     h2 =  1.60 dB; h2Step =  0.80 dB; BER = 0.16033690 =     443556/   2766400; FER =     167/    200 Completed
+27-Aug-2022 16:02:26     h2 =  3.20 dB; h2Step =  1.60 dB; BER = 0.10621024 =     293820/   2766400; FER =     127/    200 Completed
+27-Aug-2022 16:02:50     h2 =  4.80 dB; h2Step =  1.60 dB; BER = 0.06352733 =     263613/   4149600; FER =     140/    300 Completed
+27-Aug-2022 16:03:26     h2 =  6.40 dB; h2Step =  1.60 dB; BER = 0.03001475 =     207582/   6916000; FER =     116/    500 Completed
+27-Aug-2022 16:04:14     h2 =  8.00 dB; h2Step =  1.60 dB; BER = 0.01338294 =     129579/   9682400; FER =     102/    700 Completed
+27-Aug-2022 16:05:52     h2 =  9.60 dB; h2Step =  1.60 dB; BER = 0.00703008 =     145860/  20748000; FER =     103/   1500 Completed
+27-Aug-2022 16:05:52   The main calculations are completed.
+27-Aug-2022 16:05:52 Calculations are completed.
+

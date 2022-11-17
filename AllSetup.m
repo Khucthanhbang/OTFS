@@ -1,0 +1,26 @@
+    % AWGN
+    BER.MinBER = 10^-3; Common.SaveFileName = 'OFDM_AWGN_NoLDPC_QPSK___ZF'; NrSch.isTransparent = 1; NrOFDM.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OFDM'; NrChannel.Type = 'AWGN'; Common.NumWorkers = 1; % End of Params
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OTFS_AWGN_NoLDPC_QPSK___ZF'; NrSch.isTransparent = 1; NrOTFS.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OTFS'; NrChannel.Type = 'AWGN'; Common.NumWorkers = 1; % End of Params
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OFDM_AWGN_LDPC_QPSK___ZF'; NrSch.isTransparent = 0; NrOFDM.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OFDM'; NrChannel.Type = 'AWGN'; Common.NumWorkers = 1; % End of Params
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OTFS_AWGN_LDPC_QPSK___ZF'; NrSch.isTransparent = 0; NrOTFS.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OTFS'; NrChannel.Type = 'AWGN'; Common.NumWorkers = 1; % End of Params
+%     % EPA5
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OFDM_EPA5_NoLDPC_QPSK___ZF'; NrSch.isTransparent = 1; NrOFDM.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OFDM'; NrChannel.Type = 'Fading'; NrChannel.FadingType = 'EPA'; NrChannel.MaxDopShift = 5; Common.NumWorkers = 1; % End of Params
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OTFS_EPA5_NoLDPC_QPSK___ZF'; NrSch.isTransparent = 1; NrOTFS.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OTFS'; NrChannel.Type = 'Fading'; NrChannel.FadingType = 'EPA'; NrChannel.MaxDopShift = 5; Common.NumWorkers = 1; % End of Params
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OFDM_EPA5_LDPC_QPSK___ZF'; NrSch.isTransparent = 0; NrOFDM.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OFDM'; NrChannel.Type = 'Fading'; NrChannel.FadingType = 'EPA'; NrChannel.MaxDopShift = 5; Common.NumWorkers = 1; % End of Params
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OTFS_EPA5_LDPC_QPSK___ZF'; NrSch.isTransparent = 0; NrOTFS.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OTFS'; NrChannel.Type = 'Fading'; NrChannel.FadingType = 'EPA'; NrChannel.MaxDopShift = 5; Common.NumWorkers = 1; % End of Params
+%     
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OFDM_EPA500_LDPC_QPSK___ZF'; NrSch.isTransparent = 0; NrOFDM.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OFDM'; NrChannel.Type = 'Fading'; NrChannel.FadingType = 'EPA'; NrChannel.MaxDopShift = 500; Common.NumWorkers = 1; % End of Params
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OTFS_EPA500_LDPC_QPSK___ZF'; NrSch.isTransparent = 0; NrOTFS.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OTFS'; NrChannel.Type = 'Fading'; NrChannel.FadingType = 'EPA'; NrChannel.MaxDopShift = 500; Common.NumWorkers = 1; % End of Params
+%     
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OFDM_EVA70_LDPC_QPSK___ZF'; NrSch.isTransparent = 0; NrOFDM.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OFDM'; NrChannel.Type = 'Fading'; NrChannel.FadingType = 'EVA'; NrChannel.MaxDopShift = 70; Common.NumWorkers = 1; % End of Params
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OTFS_EVA70_LDPC_QPSK___ZF'; NrSch.isTransparent = 0; NrOTFS.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OTFS'; NrChannel.Type = 'Fading'; NrChannel.FadingType = 'EVA'; NrChannel.MaxDopShift = 70; Common.NumWorkers = 1; % End of Params
+%     
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OFDM_EVA700_LDPC_QPSK___ZF'; NrSch.isTransparent = 0; NrOFDM.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OFDM'; NrChannel.Type = 'Fading'; NrChannel.FadingType = 'EVA'; NrChannel.MaxDopShift = 700; Common.NumWorkers = 1; % End of Params
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OTFS_EVA700_LDPC_QPSK___ZF'; NrSch.isTransparent = 0; NrOTFS.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OTFS'; NrChannel.Type = 'Fading'; NrChannel.FadingType = 'EVA'; NrChannel.MaxDopShift = 700; Common.NumWorkers = 1; % End of Params
+%     
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OFDM_ETU300_LDPC_QPSK___ZF'; NrSch.isTransparent = 0; NrOFDM.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OFDM'; NrChannel.Type = 'Fading'; NrChannel.FadingType = 'ETU'; NrChannel.MaxDopShift = 300; Common.NumWorkers = 1; % End of Params
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OTFS_ETU300_LDPC_QPSK___ZF'; NrSch.isTransparent = 0; NrOTFS.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OTFS'; NrChannel.Type = 'Fading'; NrChannel.FadingType = 'ETU'; NrChannel.MaxDopShift = 300; Common.NumWorkers = 1; % End of Params
+%     
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OFDM_ETU3000_LDPC_QPSK___ZF'; NrSch.isTransparent = 0; NrOFDM.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OFDM'; NrChannel.Type = 'Fading'; NrChannel.FadingType = 'ETU'; NrChannel.MaxDopShift = 3000; Common.NumWorkers = 1; % End of Params
+%     BER.MinBER = 10^-3; Common.SaveFileName = 'OTFS_ETU3000_LDPC_QPSK___ZF'; NrSch.isTransparent = 0; NrOTFS.EqType =   'ZF'; SchSource.McsIndex = 5; Sig.Type = 'OTFS'; NrChannel.Type = 'Fading'; NrChannel.FadingType = 'ETU'; NrChannel.MaxDopShift = 3000; Common.NumWorkers = 1; % End of Params
+        

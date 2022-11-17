@@ -1,0 +1,14 @@
+19-Oct-2022 15:17:54 Start of calculation the curve OFDM_ETU300___LDPC_16QAM___ZF (2 of 5).
+19-Oct-2022 15:17:54   Start of the main calculations.
+19-Oct-2022 15:18:42     h2 =  8.00 dB; h2Step =  0.20 dB; BER = 0.04324629 =     354412/   8195200; FER =     162/    200 Completed
+19-Oct-2022 15:19:08     h2 =  8.20 dB; h2Step =  0.20 dB; BER = 0.03856160 =     316020/   8195200; FER =     155/    200 Completed
+19-Oct-2022 15:19:33     h2 =  8.60 dB; h2Step =  0.40 dB; BER = 0.02975120 =     243817/   8195200; FER =     143/    200 Completed
+19-Oct-2022 15:19:56     h2 =  9.40 dB; h2Step =  0.80 dB; BER = 0.01574495 =     129033/   8195200; FER =     115/    200 Completed
+19-Oct-2022 15:20:48     h2 = 11.00 dB; h2Step =  1.60 dB; BER = 0.00356584 =      73057/  20488000; FER =     105/    500 Completed
+19-Oct-2022 15:24:08     h2 = 12.60 dB; h2Step =  1.60 dB; BER = 0.00046697 =      40183/  86049600; FER =     102/   2100 Completed
+19-Oct-2022 15:24:08   The main calculations are completed. (Maximum SNR is exceeded)
+19-Oct-2022 15:24:08   Start of the additional calculations [11.80].
+19-Oct-2022 15:25:49     h2 = 11.80 dB; h2Step =  0.80 dB; BER = 0.00145383 =      59572/  40976000; FER =     109/   1000 Completed
+19-Oct-2022 15:25:49   The additional calculations are completed.
+19-Oct-2022 15:25:49 Calculations are completed.
+

@@ -1,0 +1,17 @@
+20-Aug-2022 00:26:13 Start of calculation the curve ETU300SEFDM0_7MCS5ZP (204 of 216).
+20-Aug-2022 00:26:13   Start of the main calculations.
+20-Aug-2022 00:26:21     h2 =  0.20 dB; h2Step =  0.20 dB; BER = 0.27630855 =     325602/   1178400; FER =     100/    100 Completed
+20-Aug-2022 00:26:29     h2 =  0.40 dB; h2Step =  0.20 dB; BER = 0.27174983 =     320230/   1178400; FER =     100/    100 Completed
+20-Aug-2022 00:26:37     h2 =  0.80 dB; h2Step =  0.40 dB; BER = 0.26203327 =     308780/   1178400; FER =     100/    100 Completed
+20-Aug-2022 00:26:45     h2 =  1.60 dB; h2Step =  0.80 dB; BER = 0.24016378 =     283009/   1178400; FER =     100/    100 Completed
+20-Aug-2022 00:26:53     h2 =  3.20 dB; h2Step =  1.60 dB; BER = 0.18053547 =     212743/   1178400; FER =     100/    100 Completed
+20-Aug-2022 00:27:09     h2 =  4.80 dB; h2Step =  1.60 dB; BER = 0.11506025 =     271174/   2356800; FER =     187/    200 Completed
+20-Aug-2022 00:27:25     h2 =  6.40 dB; h2Step =  1.60 dB; BER = 0.05097463 =     120137/   2356800; FER =     137/    200 Completed
+20-Aug-2022 00:27:48     h2 =  8.00 dB; h2Step =  1.60 dB; BER = 0.01806121 =      63850/   3535200; FER =     116/    300 Completed
+20-Aug-2022 00:28:46     h2 =  9.60 dB; h2Step =  1.60 dB; BER = 0.00318387 =      30015/   9427200; FER =     107/    800 Completed
+20-Aug-2022 00:28:46   The main calculations are completed.
+20-Aug-2022 00:28:46   Start of the additional calculations [8.80].
+20-Aug-2022 00:29:23     h2 =  8.80 dB; h2Step =   NaN dB; BER = 0.00832298 =      49039/   5892000; FER =     124/    500 Completed
+20-Aug-2022 00:29:23   The additional calculations are completed.
+20-Aug-2022 00:29:23 Calculations are completed.
+

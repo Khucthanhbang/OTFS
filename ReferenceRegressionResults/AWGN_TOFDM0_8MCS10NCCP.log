@@ -1,0 +1,20 @@
+19-Aug-2022 17:40:20 Start of calculation the curve AWGN_TOFDM0_8MCS10NCCP (62 of 216).
+19-Aug-2022 17:40:20   Start of the main calculations.
+19-Aug-2022 17:40:28     h2 =  1.60 dB; h2Step =  0.20 dB; BER = 0.19519905 =     409918/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:40:35     h2 =  1.80 dB; h2Step =  0.20 dB; BER = 0.19065905 =     400384/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:40:43     h2 =  2.20 dB; h2Step =  0.40 dB; BER = 0.18138429 =     380907/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:40:51     h2 =  2.60 dB; h2Step =  0.40 dB; BER = 0.17173429 =     360642/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:40:59     h2 =  3.00 dB; h2Step =  0.40 dB; BER = 0.16126286 =     338652/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:41:06     h2 =  3.40 dB; h2Step =  0.40 dB; BER = 0.14986238 =     314711/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:41:14     h2 =  3.80 dB; h2Step =  0.40 dB; BER = 0.13715762 =     288031/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:41:22     h2 =  4.20 dB; h2Step =  0.40 dB; BER = 0.12266571 =     257598/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:41:31     h2 =  4.60 dB; h2Step =  0.40 dB; BER = 0.10606667 =     222740/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:41:39     h2 =  5.00 dB; h2Step =  0.40 dB; BER = 0.08747810 =     183704/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:41:47     h2 =  5.40 dB; h2Step =  0.40 dB; BER = 0.06824667 =     143318/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:41:55     h2 =  5.80 dB; h2Step =  0.40 dB; BER = 0.04919714 =     103314/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:42:04     h2 =  6.20 dB; h2Step =  0.40 dB; BER = 0.03144952 =      66044/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:42:12     h2 =  6.60 dB; h2Step =  0.40 dB; BER = 0.01644190 =      34528/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:42:21     h2 =  7.00 dB; h2Step =  0.40 dB; BER = 0.00646095 =      13568/   2100000; FER =     100/    100 Completed
+19-Aug-2022 17:42:21   The main calculations are completed.
+19-Aug-2022 17:42:21 Calculations are completed.
+

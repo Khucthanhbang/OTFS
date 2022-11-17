@@ -1,0 +1,15 @@
+18-Oct-2022 14:42:43 Start of calculation the curve OFDM_AWGN___LDPC_16QAM_MMSE (8 of 15).
+18-Oct-2022 14:42:43   Start of the main calculations.
+18-Oct-2022 14:43:18     h2 =  4.00 dB; h2Step =  0.20 dB; BER = 0.08467859 =     346979/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:43:31     h2 =  4.20 dB; h2Step =  0.20 dB; BER = 0.07546735 =     309235/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:43:43     h2 =  4.60 dB; h2Step =  0.40 dB; BER = 0.05342932 =     218932/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:43:55     h2 =  5.00 dB; h2Step =  0.40 dB; BER = 0.02523746 =     103413/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:44:07     h2 =  5.40 dB; h2Step =  0.40 dB; BER = 0.00303446 =      12434/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:44:31     h2 =  5.60 dB; h2Step =  0.20 dB; BER = 0.00034288 =       2810/   8195200; FER =     192/    200 Completed
+18-Oct-2022 14:44:31   The main calculations are completed. (Maximum SNR is exceeded)
+18-Oct-2022 14:44:31   Start of the additional calculations [5.20 5.50].
+18-Oct-2022 14:44:43     h2 =  5.20 dB; h2Step =  0.10 dB; BER = 0.01145353 =      46932/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:44:55     h2 =  5.50 dB; h2Step =  0.10 dB; BER = 0.00118435 =       4853/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:44:55   The additional calculations are completed.
+18-Oct-2022 14:44:55 Calculations are completed.
+

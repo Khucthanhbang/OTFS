@@ -1,0 +1,24 @@
+19-Oct-2022 15:15:00 Start of calculation the curve OFDM_ETU300_NoLDPC_16QAM___ZF (1 of 5).
+19-Oct-2022 15:15:00   Start of the main calculations.
+19-Oct-2022 15:16:17     h2 =  3.00 dB; h2Step =  0.20 dB; BER = 0.14667464 =     601014/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:16:23     h2 =  3.20 dB; h2Step =  0.20 dB; BER = 0.14299980 =     585956/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:16:28     h2 =  3.60 dB; h2Step =  0.40 dB; BER = 0.13571286 =     556097/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:16:34     h2 =  4.40 dB; h2Step =  0.80 dB; BER = 0.12187646 =     499401/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:16:39     h2 =  6.00 dB; h2Step =  1.60 dB; BER = 0.09643303 =     395144/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:16:45     h2 =  7.60 dB; h2Step =  1.60 dB; BER = 0.07478109 =     306423/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:16:50     h2 =  9.20 dB; h2Step =  1.60 dB; BER = 0.05708659 =     233918/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:16:55     h2 = 10.80 dB; h2Step =  1.60 dB; BER = 0.04312476 =     176708/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:17:01     h2 = 12.40 dB; h2Step =  1.60 dB; BER = 0.03240775 =     132794/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:17:06     h2 = 14.00 dB; h2Step =  1.60 dB; BER = 0.02452631 =     100499/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:17:11     h2 = 15.60 dB; h2Step =  1.60 dB; BER = 0.01871291 =      76678/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:17:17     h2 = 17.20 dB; h2Step =  1.60 dB; BER = 0.01462734 =      59937/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:17:22     h2 = 18.80 dB; h2Step =  1.60 dB; BER = 0.01166537 =      47800/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:17:27     h2 = 20.40 dB; h2Step =  1.60 dB; BER = 0.00957658 =      39241/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:17:33     h2 = 22.00 dB; h2Step =  1.60 dB; BER = 0.00807497 =      33088/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:17:38     h2 = 23.60 dB; h2Step =  1.60 dB; BER = 0.00706145 =      28935/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:17:43     h2 = 25.20 dB; h2Step =  1.60 dB; BER = 0.00632834 =      25931/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:17:49     h2 = 26.80 dB; h2Step =  1.60 dB; BER = 0.00585001 =      23971/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:17:54     h2 = 28.40 dB; h2Step =  1.60 dB; BER = 0.00550029 =      22538/   4097600; FER =     100/    100 Completed
+19-Oct-2022 15:17:54   The main calculations are completed. (Maximum SNR is exceeded)
+19-Oct-2022 15:17:54 Calculations are completed.
+

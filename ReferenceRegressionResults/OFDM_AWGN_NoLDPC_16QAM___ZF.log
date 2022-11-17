@@ -1,0 +1,18 @@
+18-Oct-2022 14:41:42 Start of calculation the curve OFDM_AWGN_NoLDPC_16QAM___ZF (7 of 15).
+18-Oct-2022 14:41:42   Start of the main calculations.
+18-Oct-2022 14:41:48     h2 =  3.00 dB; h2Step =  0.20 dB; BER = 0.08681130 =     355718/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:41:53     h2 =  3.20 dB; h2Step =  0.20 dB; BER = 0.08276601 =     339142/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:41:57     h2 =  3.60 dB; h2Step =  0.40 dB; BER = 0.07488750 =     306859/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:42:01     h2 =  4.40 dB; h2Step =  0.80 dB; BER = 0.05976230 =     244882/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:42:05     h2 =  6.00 dB; h2Step =  1.60 dB; BER = 0.03413291 =     139863/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:42:10     h2 =  7.60 dB; h2Step =  1.60 dB; BER = 0.01577143 =      64625/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:42:14     h2 =  9.20 dB; h2Step =  1.60 dB; BER = 0.00543733 =      22280/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:42:18     h2 = 10.80 dB; h2Step =  1.60 dB; BER = 0.00123145 =       5046/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:42:22     h2 = 12.40 dB; h2Step =  1.60 dB; BER = 0.00015790 =        647/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:42:38     h2 = 13.20 dB; h2Step =  0.80 dB; BER = 0.00004124 =        676/  16390400; FER =     335/    400 Completed
+18-Oct-2022 14:42:38   The main calculations are completed.
+18-Oct-2022 14:42:39   Start of the additional calculations [11.60].
+18-Oct-2022 14:42:43     h2 = 11.60 dB; h2Step =   NaN dB; BER = 0.00048565 =       1990/   4097600; FER =     100/    100 Completed
+18-Oct-2022 14:42:43   The additional calculations are completed.
+18-Oct-2022 14:42:43 Calculations are completed.
+

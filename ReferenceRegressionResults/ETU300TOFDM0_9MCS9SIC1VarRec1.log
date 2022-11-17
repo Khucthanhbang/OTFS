@@ -1,0 +1,15 @@
+28-Aug-2022 03:30:58 Start of calculation the curve ETU300TOFDM0_9MCS9SIC1VarRec1 (442 of 648).
+28-Aug-2022 03:30:58   Start of the main calculations.
+28-Aug-2022 03:31:11     h2 =  0.20 dB; h2Step =  0.20 dB; BER = 0.22743667 =     477617/   2100000; FER =     100/    100 Completed
+28-Aug-2022 03:31:24     h2 =  0.40 dB; h2Step =  0.20 dB; BER = 0.22345048 =     469246/   2100000; FER =     100/    100 Completed
+28-Aug-2022 03:31:36     h2 =  0.80 dB; h2Step =  0.40 dB; BER = 0.21537952 =     452297/   2100000; FER =     100/    100 Completed
+28-Aug-2022 03:31:49     h2 =  1.60 dB; h2Step =  0.80 dB; BER = 0.19864000 =     417144/   2100000; FER =     100/    100 Completed
+28-Aug-2022 03:32:01     h2 =  3.20 dB; h2Step =  1.60 dB; BER = 0.16139143 =     338922/   2100000; FER =     100/    100 Completed
+28-Aug-2022 03:32:14     h2 =  4.80 dB; h2Step =  1.60 dB; BER = 0.11723429 =     246192/   2100000; FER =     100/    100 Completed
+28-Aug-2022 03:32:41     h2 =  6.40 dB; h2Step =  1.60 dB; BER = 0.07365929 =     309369/   4200000; FER =     196/    200 Completed
+28-Aug-2022 03:33:07     h2 =  8.00 dB; h2Step =  1.60 dB; BER = 0.03424548 =     143831/   4200000; FER =     176/    200 Completed
+28-Aug-2022 03:33:33     h2 =  9.60 dB; h2Step =  1.60 dB; BER = 0.01173905 =      49304/   4200000; FER =     121/    200 Completed
+28-Aug-2022 03:34:24     h2 = 11.20 dB; h2Step =  1.60 dB; BER = 0.00258560 =      21719/   8400000; FER =     114/    400 Completed
+28-Aug-2022 03:34:24   The main calculations are completed.
+28-Aug-2022 03:34:24 Calculations are completed.
+
